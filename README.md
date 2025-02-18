@@ -15,7 +15,7 @@
 📩 Email: [sathazs@gmail.com](mailto:sathazs@gmail.com)  
 📞 Phone: 9894780346  
 💼 LinkedIn: [Your LinkedIn Profile](#www.linkedin.com/in/nagaraj-sathasivam-12475b32)  
-🌍 GitHub: [@sathasivamn](https://github.com/sathasivamn/sathasivamn.git)
+🌍 GitHub: [@sathasivamn](https://github.com/sathasivamn)
 
 ## ⚡ Fun Fact  
 🎧 I enjoy listening to music and watching comedy shows to unwind! 
