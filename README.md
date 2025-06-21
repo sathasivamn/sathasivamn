@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sathasivam N  
+# 👋 Hi, I’m Sathasivam Nagaraj 
 🚀 Aspiring Data Scientist | 📈 Data Enthusiast | 🤝 Domain Expert Turned Technologist
 
 **🧠 About Me**
