@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sathasivam N  
 🚀 Aspiring Data Scientist | 📈 Data Enthusiast | 🤝 Domain Expert Turned Technologist
 
-🧠 About Me
+**🧠 About Me**
 
 🎓 MBA in Human Resources | BSc in Biochemistry
 
@@ -15,7 +15,8 @@
 
 🚀 Passionate about building impactful, data-driven solutions that bridge domain expertise and analytics.
 
-📚 What I’m Learning & Building
+
+**📚 What I’m Learning & Building**
 
 📊 Machine Learning | Regression, Time Series, Model Tuning
 
@@ -27,7 +28,8 @@
 
 🧪 Real-world projects including Gold Price Forecasting
 
-🤝 Let’s Connect & Collaborate
+
+**🤝 Let’s Connect & Collaborate**
 
 📬 Email: sathazs@gmail.com
 
@@ -37,6 +39,7 @@
 
 💻 GitHub: @sathasivamn
 
-⚡ Fun Fact
+
+**⚡ Fun Fact**
 
 🎧 A firm believer that great ideas often come while listening to music or enjoying a good comedy show!
