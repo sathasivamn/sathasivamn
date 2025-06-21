@@ -28,10 +28,15 @@
 🧪 Real-world projects including Gold Price Forecasting
 
 🤝 Let’s Connect & Collaborate
+
 📬 Email: sathazs@gmail.com
+
 📞 Phone: +91 98947 80346
+
 🔗 LinkedIn: nagaraj-sathasivam-12475b32
+
 💻 GitHub: @sathasivamn
 
 ⚡ Fun Fact
+
 🎧 A firm believer that great ideas often come while listening to music or enjoying a good comedy show!
